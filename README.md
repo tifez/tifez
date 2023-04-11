@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @tifez
 - 👀 I’m interested in ... app development and ethnical hacking
-- 🌱 I’m currently learning ...html and css
+- Learned HTML and CSS
+- 🌱 I’m currently learning ...Vanila Javascript
 - 💞️ I’m looking to collaborate on ...anything useful to me
 - 📫 How to reach me ...discord;tifez#2172
 
